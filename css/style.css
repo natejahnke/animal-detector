@@ -1,0 +1,6 @@
+
+
+#canvas {
+    opacity: 0;
+    transition: opacity 1s ease-in-out; /* increase duration to 2 seconds */
+}
